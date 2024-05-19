@@ -4,12 +4,11 @@
   "usesMultifileEditor": true,
   "hasEditableBoundaries": true,
   "dashedName": "learn-data-structures-by-building-the-merge-sort-algorithm",
-  "order": 7,
+  "order": 9,
   "time": "5 hours",
   "template": "",
   "required": [],
   "superBlock": "scientific-computing-with-python",
-  "isBeta": true,
   "challengeOrder": [
     {
       "id": "655cd899f8de09431eabb40c",
